@@ -14,7 +14,7 @@
  *
  */
 #include <iostream>
-#include "sort"
+#include "sort.h"
 using namespace std;
 using namespace sort;
 
