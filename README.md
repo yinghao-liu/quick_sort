@@ -7,6 +7,7 @@ sort algorithm
 ### 04 [quick sort](04)
 ### 05 [heap sort](05)
 
-  
+<br>
+
 ## reference
 [八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
